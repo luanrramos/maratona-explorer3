@@ -1,6 +1,6 @@
 Olá! 😊
 
-Sou iniciante no mundo da programação e este é o meu primeiro projeto em Html e CSS. 🤩
+Sou iniciante no mundo da programação e este é o meu primeiro projeto oficial em HTML e CSS. 
 
 Bora para mais uma aventura! 🚀 🌟
 
