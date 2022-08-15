@@ -20,9 +20,10 @@ header{
 header p{
   color: rgba(0, 0, 0, 0.7);;
   font-size: 14px;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 header, section{
-  max-width: 330px;
+  max-width: 320px;
   margin: 0 auto;
 }
 header h1{
@@ -49,6 +50,7 @@ section p{
   color: rgba(0, 0, 0, 0.6);
   line-height: 21px;
   width: 200px;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 section strong{
   color: #2D2C2A;
@@ -66,14 +68,14 @@ ul li {
 }
  
 li .details {   
-  width: 270px;
-  
+  width: 260px;
+
 }
 li .price{
-  width:80px;
+  width: 70px;
   margin: 0;
   padding: 0;
-  
+
   
 }
 
