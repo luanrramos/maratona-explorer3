@@ -10,20 +10,6 @@ body{
     font-family: "Roboto serif";
 }
 
-/*LISTA NÃO ORDENADA*/
-ul{
-    list-style: none;
-}
-
-ul li {  
-   margin-bottom: 16px;
-   display: flex;
-    /* ALINHAR 2 CLASSES (DIV+STRONG CLASS)*/
-}
- 
-li .details {   
-  width: 233px;
-}
 
 /*HEADER*/
 header{
@@ -36,7 +22,7 @@ header p{
   font-size: 14px;
 }
 header, section{
-  max-width: 300px;
+  max-width: 330px;
   margin: 0 auto;
 }
 header h1{
@@ -62,9 +48,33 @@ section h3{
 section p{
   color: rgba(0, 0, 0, 0.6);
   line-height: 21px;
+  width: 200px;
 }
 section strong{
   color: #2D2C2A;
+
+}
+/*LISTA NÃO ORDENADA*/
+ul{
+    list-style: none;
+}
+
+ul li {  
+   margin-bottom: 16px;
+   display: flex;
+    /* ALINHAR 2 CLASSES (DIV+STRONG CLASS)*/
+}
+ 
+li .details {   
+  width: 270px;
+  
+}
+li .price{
+  width:80px;
+  margin: 0;
+  padding: 0;
+  
+  
 }
 
 .details h3 {
